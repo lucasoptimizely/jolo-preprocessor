@@ -1,6 +1,6 @@
 {
   "name": "jolo-preprocessor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A preprocessor for JOLO specs. JOLO is a definition language for programming languages based on Swagger.",
   "main": "lib/index.js",
   "scripts": {
